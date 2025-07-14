@@ -5,7 +5,7 @@ import sys
 
 os.system('cls')
 sys.setrecursionlimit(999999999) # using to extend recursion limit.
-name = "examplewifi"      # set wifi password that avalable in your area.
+name = "Talita-2.4GHZ"      # set wifi password that avalable in your area.
 wifipass="100000000"     # set wifi pass in number that help pwdfun function to incriment wifipass by one.
 
 # below code change or create wifi file name 
